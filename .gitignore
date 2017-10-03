@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+*.csv
+/CVS/*
+**/CVS/*
+.cvsignore
+=======
+*.csv
+/CVS/*
+**/CVS/*
+.cvsignore
+>>>>>>> 8699b19334598f6093d3b162ac4e20ea6aa9279b
+*/.cvsignore
