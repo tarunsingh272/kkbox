@@ -16,10 +16,9 @@ All datasets provided by kaggle in this competition is way too big to post. Thus
 ## Usage
 Run each notebook to see step by step
 
-1. kkbox_EDA.ipynb - explores possible trends on preprocesses each data file
-2. features.ipynb - merges and cleans the data
-3. feature_selection.ipynb - stepwise logistic regression to subset relevant features
-4. train/XGBoost.ipynb - trains and creates submission
+1. kkbox_features_EDA - summarizes all datafiles, basic feature engineering, and some data visualization
+2. feature_selection.ipynb - stepwise logistic regression to subset relevant features
+3. train/XGBoost.ipynb - trains and creates submission
 
 XGBoost, gradient boosting classifier, neural networks, AdaBoost and logistic regressions were fitted, XGBoost created highest score.
 
@@ -30,3 +29,5 @@ Last checked public leaderboard score was top ~30%. Private leaderboard and publ
 ## Credit
 
 Author - Michael Ko
+
+Any suggestions, comments and thoughts are welcomed! Contact me mlko53 [at] stanford [dot] edu
